@@ -1,4 +1,4 @@
-# Zomato Power BI Dashboard 🚀
+# Zomato Power BI Dashboard 
 
 ## Project Overview
 This Power BI dashboard offers a deep dive into **Zomato’s performance** metrics, giving a data-driven perspective on various key performance indicators (KPIs) and user metrics.
