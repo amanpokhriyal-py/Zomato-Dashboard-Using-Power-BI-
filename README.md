@@ -21,6 +21,12 @@ This dashboard offers a comprehensive analysis of restaurant ratings, sales tren
 - **City Performance Dashboard**: Review city-level sales values, order counts, and customer metrics, including customer gain/loss by gender.
 - **User Metrics**: Get insights into active users, user age distribution, and city-wise breakdowns of sales.
 
+![Slide3](https://github.com/user-attachments/assets/287d2097-425f-4e16-a800-80b0b06d7a04)
+![Slide4](https://github.com/user-attachments/assets/17497e50-f211-4af6-b425-f63ddf021534)
+![Slide5](https://github.com/user-attachments/assets/23d04c63-8eb4-4f70-a529-b0da86ebc3d9)
+👉 **[Explore the Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiYTA5MzVmZDAtNGE5OS00ZDAxLTk1MjYtZjNlMWMxODdiY2YyIiwidCI6ImNhMjA3Nzk3LWNiMWItNDM4MC05NGE2LWE2NDgzYTE5OGFiNSJ9
+)**
+
 ## Visualizations:
 The dashboard offers interactive visualizations, making it easy to explore Zomato's growth and performance across different dimensions.
 
