@@ -1,4 +1,6 @@
 # Zomato Power BI Dashboard 
+![Zomato-Logo](https://github.com/user-attachments/assets/bdbc4271-c33c-4898-981d-30bcf659f42c)
+
 
 ## Project Overview
 This Power BI dashboard offers a deep dive into **Zomato’s performance** metrics, giving a data-driven perspective on various key performance indicators (KPIs) and user metrics.
